@@ -6,7 +6,6 @@
   align-content: center;
 }
 .coin {
-  /* animation: spin 2s linear infinite, change 3s infinite linear; */
   border-radius: 50%;
   background-size: cover;
 }
